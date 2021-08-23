@@ -29,6 +29,7 @@
       </div>
     </header>
 
+    <main>
     <div class="content">
      <section class="first" name="intro">
        <h1>Web-development just reached a new level.</h1>
@@ -76,7 +77,7 @@
        <h3>Everyone is welcome 💖</h3>
       </section> 
     </div>
-
+    </main>
 
    <div class="container">
     <footer>
