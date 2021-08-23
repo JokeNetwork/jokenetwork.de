@@ -1,7 +1,7 @@
 <p align="center">
- <img width="100px" src="assets/img/android-chrome-512x512.png" align="center" alt="JokeNetwork Logo">
+ <img width="100px" src="assets/img/safari-pinned-tab.svg" align="center" alt="JokeNetwork Logo">
  <h1 align="center">JokeNetwork.de</h1>
- <p align="center">`v2.0` of our website</p>
+ <p align="center">v2.0 of our website</p>
 </p>
   <p align="center">
   <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FJokeNetwork%2Fjokenetwork.de?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FJokeNetwork%2Fjokenetwork.de.svg?type=shield"/></a>
