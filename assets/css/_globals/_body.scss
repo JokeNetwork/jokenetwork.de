@@ -9,11 +9,19 @@
     color: #fff
 }
 
-// Define main body
-html {
+// Footer fix
+// https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+ *, *::before, *::after{
+     padding: 0;
+     box-sizing: border-box; 
+  }
+
+html,
+body {
     scroll-behavior: smooth;
 }
 
+// Define main body
 body {
     font-family: var(--body-font);
     font-weight: var(--body-fontweight);
@@ -22,7 +30,15 @@ body {
     font-size: var(--body-fontsize);
     word-wrap: break-word;
     display: flex;
+    min-height: 100vh;
+    height: 100%;
     flex-direction: column;
+}
+
+// Footer fix
+main {
+    flex: 1 0 auto;
+    padding-bottom: 2rem;
 }
 
 // Basic Links
@@ -50,6 +66,7 @@ p {
 }
 
 .content {
+    flex-grow: 1;
     max-width: 80%;
     height: 100%;
     margin: 0 auto;
@@ -105,6 +122,7 @@ h1,
 h2,
 h3,
 h4 {
+
     a {
         color: #0abde3 !important;
         background-image: linear-gradient(#0abde3, #0abde3) !important;
@@ -168,10 +186,12 @@ footer {
     margin-top: auto;
     padding: 1rem;
     text-align: center;
-    height: auto;
+    height: 5rem;
     background: #111;
     border-top: 1px solid #333;
-    z-index: 9999;
+
+    // Footer fix
+    flex: none;
 
     p {
         font-size: 1rem;
