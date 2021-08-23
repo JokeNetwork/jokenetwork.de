@@ -27,13 +27,25 @@
         </nav>
       </div>
     </header>
-
+    <main>
     <div class="content">
      <section class="first" name="intro">
        <h1>404 &middot; Not found.</h1>
        <h2>We're sorry, but the page you're looking for is not available.</h2>
       </section> 
     </div>
+    </main>
+
+    <div class="container">
+      <footer>
+      <p>&copy; 20<?php echo date('y'); ?> JokeNetwork</p>
+        <ul>
+          <li><a href="//github.com/jokenetwork">GitHub</a></li>
+          <li><a href="impressum">Imprint</a></li>
+          <li><a href="privacy-policy">Privacy Policy</a></li>
+        </ul>
+      </footer>
+   </div>
 
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/scroll.js"></script>
