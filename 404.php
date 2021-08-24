@@ -36,16 +36,40 @@
     </div>
     </main>
 
-    <div class="container">
-      <footer>
+    <footer>
+      <div class="footer_nav">
+        <div class="flexbox">
+          <ul>
+            <p>Labels</p>
+            <li><img src="assets/img/opensource.svg" alt="Open Source"></li>
+            <li><img src="assets/img/greenhosted.svg" alt="Hosted Green"></li>
+          </ul>
+        </div>
+        <div class="flexbox">
+          <ul>
+            <p>Projects</p>
+            <li><a href="//faq.jokenetwork.de">Docs</a></li>
+            <li><a href="//vegancheck.me">VeganCheck.me</a></li>
+            <li><a href="//github.com/JokeNetwork/SCSS-Scratch">SCSS Scratch</a></li>
+          </ul>
+        </div>
+        <div class="flexbox">
+          <ul>
+            <p>Participate</p>
+            <li><a href="//github.com/jokenetwork">Contribute on GitHub</a></li>
+            <li><a href="mailto:contribute@jokenetwork.de">Mail us</a></li>
+          </ul>
+        </div>
+        <div class="flexbox">
+          <ul>
+            <p>Legal</p>
+            <li><a href="impressum">Imprint</a></li>
+            <li><a href="privacy-policy">Privacy Policy</a></li>
+          </ul>
+        </div>
+      </div>
       <p>&copy; 20<?php echo date('y'); ?> JokeNetwork</p>
-        <ul>
-          <li><a href="//github.com/jokenetwork">GitHub</a></li>
-          <li><a href="impressum">Imprint</a></li>
-          <li><a href="privacy-policy">Privacy Policy</a></li>
-        </ul>
-      </footer>
-   </div>
+    </footer>
 
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/scroll.js"></script>
