@@ -60,4 +60,18 @@
         padding-bottom: 5rem;
         border-bottom: .01rem solid #fff;
     }
+    .footer_nav {
+    margin: 0 auto;
+    padding-left: 0;
+    padding-right: 0;
+    display: block;
+
+        ul {
+            width: 90%;
+        }
+
+        .flexbox:first-child{
+            padding-bottom: 0;
+        }
+    }
 }
