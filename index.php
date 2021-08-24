@@ -66,29 +66,53 @@
            <li>Sustainability assessment</li>
            <li>Nutri-Score integration</li>
          </ul>
-         <a href="//vegancheck.me">See it in action</a> / <a href="//github.com/philipbrembeck/VeganCheck.me">Contribute on GitHub</a> 
+         <a href="//vegancheck.me">See it in action</a> / <a href="//github.com/jokenetwork/VeganCheck.me">Contribute on GitHub</a> 
        </div>
       </section> 
 
 
        <section class="contact" name="contact">
        <h1>Wanna hang out?</h1>
-       <h3>Contribute to one of our projects on <a href="//github.com/jokenetwork">GitHub</a> or drop us an <a href="mailto:info@jokenetwork.de">e-mail</a>.</h3>
+       <h3>Contribute to one of our projects on <a href="//github.com/jokenetwork">GitHub</a> or drop us an <a href="mailto:contribute@jokenetwork.de">e-mail</a>.</h3>
        <h3>Everyone is welcome 💖</h3>
       </section> 
     </div>
     </main>
 
-   <div class="container">
     <footer>
+      <div class="footer_nav">
+        <div class="flexbox">
+          <ul>
+            <p>Labels</p>
+            <li><img src="assets/img/opensource.svg" alt="Open Source"></li>
+            <li><img src="assets/img/greenhosted.svg" alt="Hosted Green"></li>
+          </ul>
+        </div>
+        <div class="flexbox">
+          <ul>
+            <p>Projects</p>
+            <li><a href="//faq.jokenetwork.de">Docs</a></li>
+            <li><a href="//vegancheck.me">VeganCheck.me</a></li>
+            <li><a href="//github.com/JokeNetwork/SCSS-Scratch">SCSS Scratch</a></li>
+          </ul>
+        </div>
+        <div class="flexbox">
+          <ul>
+            <p>Participate</p>
+            <li><a href="//github.com/jokenetwork">Contribute on GitHub</a></li>
+            <li><a href="mailto:contribute@jokenetwork.de">Mail us</a></li>
+          </ul>
+        </div>
+        <div class="flexbox">
+          <ul>
+            <p>Legal</p>
+            <li><a href="impressum">Imprint</a></li>
+            <li><a href="privacy-policy">Privacy Policy</a></li>
+          </ul>
+        </div>
+      </div>
       <p>&copy; 20<?php echo date('y'); ?> JokeNetwork</p>
-      <ul>
-        <li><a href="//github.com/jokenetwork">GitHub</a></li>
-        <li><a href="impressum">Imprint</a></li>
-        <li><a href="privacy-policy">Privacy Policy</a></li>
-      </ul>
     </footer>
-   </div>
 
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/scroll.js"></script>
