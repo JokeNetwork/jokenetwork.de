@@ -1,18 +1,17 @@
 // Selection color
 ::-moz-selection {
-    background-color: #ff9f43;
+    background: #ff9f43;
     color: #fff
 }
 
 ::selection {
-    background-color: #ff9f43;
+    background: #ff9f43;
     color: #fff
 }
 
 // Footer fix
 // https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
  *, *::before, *::after{
-     padding: 0;
      box-sizing: border-box; 
   }
 
@@ -186,7 +185,6 @@ footer {
     margin-top: auto;
     padding: 1rem;
     text-align: center;
-    height: 5rem;
     background: #111;
     border-top: 1px solid #333;
 
