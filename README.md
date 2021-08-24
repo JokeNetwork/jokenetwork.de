@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="assets/img/GutHub_Logo.svg" align="center" alt="JokeNetwork Logo">
+ <img width="100px" src="assets/img/GitHub_Logo.svg" align="center" alt="JokeNetwork Logo">
  <h1 align="center">JokeNetwork.de</h1>
  <p align="center">v2.0 of our website</p>
 </p>
