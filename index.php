@@ -100,6 +100,8 @@
           <ul>
             <p>Participate</p>
             <li><a href="//github.com/jokenetwork">Contribute on GitHub</a></li>
+            <li><a href="https://github.com/sponsors/philipbrembeck">Sponsor on GitHub</a></li>
+            <li><a href="https://www.paypal.com/donate?hosted_button_id=N4F7DAQH7ET2G">Donate via PayPal</a></li>
             <li><a href="mailto:contribute@jokenetwork.de">Mail us</a></li>
           </ul>
         </div>
