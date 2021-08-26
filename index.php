@@ -57,10 +57,9 @@
        <div class="flexbox">
          <h3>Community based: VeganCheck.me</h3>
          <p>VeganCheck.me is made by our vegan friend <a href="//philipbrembeck.com">@philipbrembeck</a> and will be further developed by JokeNetwork.</p>
-         <p>VeganCheck.me scans the EAN or UPC-Code of a product and simply tells you if it's vegan or not.</p>
+         <p>VeganCheck.me (on mobile) scans the EAN or UPC-Code of a product and simply tells you if it's vegan or not.</p>
          <p>Planned for the future:</p>
          <ul>
-           <li>Open-source JavaScript-based scanner</li>
            <li>Text search</li>
            <li>Options for vegetarians</li>
            <li>Sustainability assessment</li>
