@@ -255,6 +255,10 @@ footer {
     }
 }
 
+.bold {
+    font-weight: var(--bold-fontweight);
+}
+
 // Basic Animations
 body {
     animation: fadeIn 5s;

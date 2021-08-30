@@ -51,6 +51,29 @@ section.text {
 
 }
 
+section.message {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    width: 100%;
+}
+
+section.message h1 {
+    font-size: var(--h1-font-size);
+    background: rgb(95, 39, 205);
+    background: linear-gradient(350deg, rgba(95, 39, 205, 1) 0%, rgba(238, 82, 83, 1) 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+    outline: 0;
+}
+
+section.message h2 {
+    font-size: var(--h2-font-size);
+    line-height: var(--h2-line-height);
+}
+
+
 .description {
     color: var(--description-color);
     font-size: var(--description-font-size);
@@ -108,5 +131,22 @@ section.contact {
         -webkit-text-fill-color: transparent;
         text-fill-color: transparent;
         outline: 0;
+    }
+}
+
+table {
+    border:none;
+    border-collapse: collapse;
+    text-align: left;
+    font-size: .99rem;
+
+    img {
+        max-width: 95%;
+    }
+    td {
+        padding: 1rem;
+    }
+    tr:nth-child(even) {
+        background-color: #222f3e;
     }
 }
