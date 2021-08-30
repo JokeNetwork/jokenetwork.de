@@ -2,7 +2,7 @@
       <div class="footer_nav">
         <div class="flexbox">
           <ul>
-            <p>2014 - 20<?php echo date('y'); ?> &copy; JokeNetwork</p>
+            <p>2011 - 20<?php echo date('y'); ?> &copy; JokeNetwork</p>
             <li><img src="assets/img/opensource.svg" alt="Open Source"></li>
             <li><img src="assets/img/greenhosted.svg" alt="Hosted Green"></li>
           </ul>
