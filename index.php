@@ -72,7 +72,7 @@
 
        <section class="contact" name="contact">
        <h1>Wanna hang out?</h1>
-       <h3>Contribute to one of our projects on <a href="//github.com/jokenetwork">GitHub</a> or drop us an <a href="mailto:contribute@jokenetwork.de">e-mail</a>.</h3>
+       <h3>Contribute to one of our projects on <a href="//github.com/jokenetwork">GitHub</a> or drop us an <a href="mailto:contribute@jokenetwork.de">e-mail 📨</a>.</h3>
        <h3>Everyone is welcome 💖</h3>
       </section> 
     </div>
