@@ -13,6 +13,7 @@
             <li><a href="//faq.jokenetwork.de">Docs</a></li>
             <li><a href="//vegancheck.me">VeganCheck.me</a></li>
             <li><a href="//github.com/JokeNetwork/SCSS-Scratch">SCSS Scratch</a></li>
+            <li><a href="/badges">GitHub Status Badges</a></li>
           </ul>
         </div>
         <div class="flexbox">
