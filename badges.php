@@ -31,6 +31,7 @@
       <div class="content">
        <section class="message">
         <h1>GitHub Badges</h1>
+
           <p>We love the idea of open-sourced projects! <br>But sometimes it is hard to see if a project is still actively maintained or not.<br>
           Because of this, we created the fowllowing Badges for README-overviews on GitHub.</p>
           
