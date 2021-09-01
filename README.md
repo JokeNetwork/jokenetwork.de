@@ -16,18 +16,18 @@ Welcome to `v2.0` of our website!
 
 We're live at <https://jokenetwork.de>.
 
-## Version overview
+## 🖥 Version overview
 
 |![](assets/img/2011.png)|![](assets/img/2013.png)|![](assets/img/2014.png)|![](assets/img/2021.png)|
 |--------------------------------------------|-------------|-----------|-----------|
-| v1 - 2011 (JokeNetwork was CloudSide then) | v0.5 - 2013 | v1 - 2014 | v2 - 2021 |
+| `v1` - 2011 (JokeNetwork was CloudSide then) | `v0.5` - 2013 | `v1` - 2014 | `v2` - 2021 |
 
-## Credits 
+## 🤝 Credits 
 
 This repo uses:
 
 - [JQuery](https://jquery.com)
 
-## License
+## 👩‍⚖️ License
 
 All text and code in this repository is licensed under [MIT](https://github.com/JokeNetwork/jokenetwork.de/blob/main/LICENSE).
