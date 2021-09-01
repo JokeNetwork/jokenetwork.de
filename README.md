@@ -16,6 +16,12 @@ Welcome to `v2.0` of our website!
 
 We're live at <https://jokenetwork.de>.
 
+## History of JokeNetworks website
+
+|![](assets/img/2011.png)|![](assets/img/2013.png)|![](assets/img/2014.png)|![](assets/img/2021.png)|
+|--------------------------------------------|-------------|-----------|-----------|
+| v1 - 2011 (JokeNetwork was CloudSide then) | v0.5 - 2013 | v1 - 2014 | v2 - 2021 |
+
 ## Credits 
 
 This repo uses:
