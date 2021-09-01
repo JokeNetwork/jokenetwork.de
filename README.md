@@ -16,7 +16,7 @@ Welcome to `v2.0` of our website!
 
 We're live at <https://jokenetwork.de>.
 
-## History of JokeNetworks website
+## Version overview
 
 |![](assets/img/2011.png)|![](assets/img/2013.png)|![](assets/img/2014.png)|![](assets/img/2021.png)|
 |--------------------------------------------|-------------|-----------|-----------|
