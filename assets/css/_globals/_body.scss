@@ -241,6 +241,7 @@ footer {
 
         a {
             font-weight: var(--body-fontweight);
+            display: inline-block;
             color: #576574;
             transition: .3s;
         }
@@ -251,6 +252,21 @@ footer {
 
         img {
             width: 6rem;
+        }
+
+        svg {
+            width: 6rem;
+            fill-rule:evenodd;
+            clip-rule:evenodd;
+            stroke-linejoin:round;
+            stroke-miterlimit:2;
+            fill:rgb(87,101,116);
+            fill-rule:nonzero;
+            transition: all .5s ease;
+        }
+
+        svg:hover {
+            fill: #fff!important;
         }
     }
 }
