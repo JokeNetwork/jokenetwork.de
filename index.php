@@ -56,16 +56,15 @@
        </div>
        <div class="flexbox">
          <h3>Community based: VeganCheck.me</h3>
-         <p>VeganCheck.me is made by our vegan friend <a href="//philipbrembeck.com">@philipbrembeck</a> and will be further developed by JokeNetwork.</p>
-         <p>VeganCheck.me (on mobile) scans the EAN or UPC-Code of a product and simply tells you if it's vegan or not.</p>
+         <p>VeganCheck.me is our first PWA (Progressive Web App) and focused on simplicity and therefore only shows what matters.</p>
+         <p>Simply scan the EAN or UPC-Code of a product and VeganCheck.me tells you if it's vegan or not.</p>
          <p>Planned for the future:</p>
          <ul>
-           <li>Text search</li>
            <li>Options for vegetarians</li>
-           <li>Sustainability assessment</li>
            <li>Nutri-Score integration</li>
          </ul>
-         <a href="//vegancheck.me">See it in action</a> / <a href="//github.com/jokenetwork/VeganCheck.me">Contribute on GitHub</a> 
+         <a href="//vegancheck.me">See in action</a> / <a href="//github.com/jokenetwork/VeganCheck.me">Contribute on GitHub</a> 
+         <p><a href="//vegancheck.me"><img src="assets/img/PWA.svg" alt="Open PWA in Browser" width="150"></a></p>
        </div>
       </section> 
 
