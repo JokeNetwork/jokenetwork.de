@@ -256,7 +256,6 @@ footer {
 
         svg {
             width: 6rem;
-            fill-rule:evenodd;
             clip-rule:evenodd;
             stroke-linejoin:round;
             stroke-miterlimit:2;
@@ -266,7 +265,7 @@ footer {
         }
 
         svg:hover {
-            fill: #fff!important;
+            fill: #fff !important;
         }
     }
 }
