@@ -259,13 +259,15 @@ footer {
             clip-rule:evenodd;
             stroke-linejoin:round;
             stroke-miterlimit:2;
-            fill:rgb(87,101,116);
+            filter: grayscale(100%);
+            opacity: .5;
             fill-rule:nonzero;
             transition: all .5s ease;
         }
 
         svg:hover {
-            fill: #fff !important;
+            filter: grayscale(0%);
+            opacity: 1;
         }
     }
 }
