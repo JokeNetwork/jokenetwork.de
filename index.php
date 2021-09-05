@@ -47,12 +47,12 @@
          <a href="//faq.jokenetwork.de">See it in action</a> / <a href="//github.com/jokenetwork/faq">Contribute on GitHub</a> 
        </div>
        <div class="flexbox">
-         <div class="hero"><img src="assets/img/docs.svg" alt="JokeNetwork Docs"></div>
+         <div class="hero"><img src="assets/img/docs.svg" alt="JokeNetwork Docs" loading="lazy"></div>
        </div>
       </section> 
       <section class="projects">
        <div class="flexbox">
-         <div class="hero2"><img src="assets/img/vegancheck.svg" alt="JokeNetwork Docs"></div>
+         <div class="hero2"><img src="assets/img/vegancheck.svg" alt="JokeNetwork Docs" loading="lazy"></div>
        </div>
        <div class="flexbox">
          <h3>Community based: VeganCheck.me</h3>
@@ -64,7 +64,7 @@
            <li>Nutri-Score integration</li>
          </ul>
          <a href="//vegancheck.me">See in action</a> / <a href="//github.com/jokenetwork/VeganCheck.me">Contribute on GitHub</a> 
-         <p><a href="//vegancheck.me"><img src="assets/img/PWA.svg" alt="Open PWA in Browser" width="150"></a></p>
+         <p><a href="//vegancheck.me"><img src="assets/img/PWA.svg" alt="Open PWA in Browser" width="150" loading="lazy"></a></p>
        </div>
       </section> 
 
