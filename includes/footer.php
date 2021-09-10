@@ -53,8 +53,8 @@
         <div class="flexbox">
           <ul>
             <p>Legal</p>
-            <li><a href="impressum">Imprint</a></li>
-            <li><a href="privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://jokenetwork.de/impressum">Imprint</a></li>
+            <li><a href="https://jokenetwork.de/privacy-policy">Privacy Policy</a></li>
           </ul>
         </div>
       </div>
