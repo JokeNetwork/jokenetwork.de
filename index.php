@@ -55,7 +55,7 @@
          <div class="hero2"><img src="assets/img/vegancheck.svg" alt="JokeNetwork Docs" loading="lazy"></div>
        </div>
        <div class="flexbox">
-         <h3>Community based: VeganCheck.me</h3>
+         <h3 name="vegancheck">Community based: VeganCheck.me</h3>
          <p>VeganCheck.me is our first PWA (Progressive Web App) and focused on simplicity and therefore only shows what matters.</p>
          <p>Simply scan the EAN or UPC-Code of a product and VeganCheck.me tells you if it's vegan or not.</p>
          <p>Planned for the future:</p>
