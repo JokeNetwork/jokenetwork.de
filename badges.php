@@ -59,6 +59,8 @@
                 </tr>
               </tbody>
             </table>
+
+              <p>Feel free to use them in your GitHub-projects without any mention (Some rights reserved).</p>
         </section>
       </div>
     </div>
