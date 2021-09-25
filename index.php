@@ -4,7 +4,7 @@
     <title>JokeNetwork - Open Web</title>
     <meta charset="UTF-8">
 
-    <meta name="description" content="We're a young team of webdesigners and web-developers and we're offering (ads-)free tools and apps as well as open source projects.">
+    <meta name="description" content="We're a young team of webdesigners and web-developers and we're offering free and open  source tools and apps.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png">
