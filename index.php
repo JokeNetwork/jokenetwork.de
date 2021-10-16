@@ -67,6 +67,17 @@
          <p><a href="//vegancheck.me"><img src="assets/img/PWA.svg" alt="Open PWA in Browser" width="150" loading="lazy"></a></p>
        </div>
       </section> 
+       <section class="projects">
+        <div class="flexbox">
+         <h3 name="SCSS-Scratch">SCSS Scratch</h3>
+         <p>SCSS Scratch is a barebones structure/starting-point for SCSS/SASS-projects.</p>
+         <p>The structure is used to create websites and web-apps, including the JokeNetwork page you're on now.</p>
+         <a href="//github.com/JokeNetwork/SCSS-Scratch">Contribute or download on GitHub</a> 
+       </div>
+       <div class="flexbox">
+         <div class="hero"><img src="assets/img/scss-scratch.png" alt="JokeNetwork SCSS Scratch" loading="lazy"></div>
+       </div>
+      </section> 
 
 
        <section class="contact" name="contact">
