@@ -57,6 +57,7 @@
             <p>Legal</p>
             <li><a href="https://jokenetwork.de/impressum">Imprint</a></li>
             <li><a href="https://jokenetwork.de/privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 license</a></li>
           </ul>
         </div>
       </div>
