@@ -37,34 +37,34 @@
        <p>We're a young team of webdesigners and web-developers and we're offering free tools and apps!</p>
        <a class="button" href="#projects">See our current work</a>
     </section> 
-     <section class="projects" name="projects">
+      <section class="projects" name="projects">
        <div class="flexbox">
-         <h2>Current Projects</h2>
-         <h3>JokeNetwork Docs</h3>
-         <p>JokeNetworks FAQ included questions that weren't asked frequently.</p>
-         <p>Recently we brought FAQ back to live as JokeNetwork Docs - While the original idea of our faq page was the documentation of our own services, it is now mainly used as an overview and documentation page for MetaExtensions listed in the WHATWG HTML Standard.</p>
-         <p>Maintained by <a href="//github.com/philipbrembeck">@philipbrembeck</a>, <a href="//github.com/gitgauner">@gitgauner</a> &amp; <a href="//github.com/fastrcloud">@fastrcloud</a> </p>
-         <a href="//faq.jokenetwork.de">See it in action</a> / <a href="//github.com/jokenetwork/faq">Contribute on GitHub</a> 
-       </div>
-       <div class="flexbox">
-         <div class="hero"><img src="assets/img/docs.svg" alt="JokeNetwork Docs" loading="lazy"></div>
-       </div>
-      </section> 
-      <section class="projects">
-       <div class="flexbox">
-         <div class="hero2"><img src="assets/img/vegancheck.svg" alt="JokeNetwork Docs" loading="lazy"></div>
-       </div>
-       <div class="flexbox">
-         <h3 name="vegancheck">Community based: VeganCheck.me</h3>
-         <p>VeganCheck.me is our first PWA (Progressive Web App) and focused on simplicity and therefore only shows what matters.</p>
-         <p>Simply scan the EAN or UPC-Code of a product and VeganCheck.me tells you if it's vegan or not.</p>
+        <h2>Current Projects</h2>
+         <h3 name="vegancheck">VeganCheck.me - Check if it's vegan!</h3>
+         <p>VeganCheck.me is our first PWA (Progressive Web App) and focused on simplicity, therefore it only shows what matters:<br>
+         This includes information about the product being vegan or not, information about palm-oil in the product and the Nutriscore of the product.</p>
+         <p>Simply scan the EAN or UPC-Code of a product to start with VeganCheck.me!</p>
          <p>Planned for the future:</p>
          <ul>
            <li>Options for vegetarians</li>
-           <li>Nutri-Score integration</li>
          </ul>
          <a href="//vegancheck.me">See in action</a> / <a href="//github.com/jokenetwork/VeganCheck.me">Contribute on GitHub</a> 
          <p><a href="//vegancheck.me"><img src="assets/img/PWA.svg" alt="Open PWA in Browser" width="150" loading="lazy"></a></p>
+       </div>
+       <div class="flexbox">
+         <div class="hero"><img src="assets/img/vegancheck.svg" alt="JokeNetwork Docs" loading="lazy"></div>
+       </div>
+      </section> 
+      <section class="projects">
+        <div class="flexbox">
+         <div class="hero2"><img src="assets/img/docs.svg" alt="JokeNetwork Docs" loading="lazy"></div>
+       </div>
+       <div class="flexbox">
+         <h3>JokeNetwork Docs</h3>
+         <p>JokeNetworks FAQ originally answered questions that weren't asked frequently.</p>
+         <p>Recently we brought FAQ back to live as JokeNetwork Docs - While the original idea of our faq page was the documentation of our own services, it is now mainly used as an overview and documentation page for MetaExtensions listed in the WHATWG HTML standard.</p>
+         <p>Maintained by <a href="//github.com/philipbrembeck">@philipbrembeck</a>, <a href="//github.com/gitgauner">@gitgauner</a> &amp; <a href="//github.com/fastrcloud">@fastrcloud</a> </p>
+         <a href="//faq.jokenetwork.de">See it in action</a> / <a href="//github.com/jokenetwork/faq">Contribute on GitHub</a> 
        </div>
       </section> 
        <section class="projects">
@@ -74,7 +74,7 @@
          <p>The structure is used to create websites and web-apps, including the JokeNetwork page you're on now.</p>
          <a href="//github.com/JokeNetwork/SCSS-Scratch">Contribute or download on GitHub</a> 
        </div>
-       <div class="flexbox">
+        <div class="flexbox">
          <div class="hero"><img src="assets/img/scss-scratch.png" alt="JokeNetwork SCSS Scratch" loading="lazy"></div>
        </div>
       </section> 
