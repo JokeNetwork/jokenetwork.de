@@ -149,3 +149,30 @@ table {
         background-color: #222f3e;
     }
 }
+
+code {
+    max-width: 80%;
+    text-align: left;
+    margin: 0 auto;
+    font-size: .95rem;
+    border-radius: .5rem;
+    display: block;
+    padding: 1.5rem;
+    width: 90%;
+    position: relative;
+    box-sizing: border-box;
+    $border: .1rem;
+    color: #FFF;
+    background: #000;
+    background-clip: padding-box;
+    border: solid $border transparent; 
+    &:before {
+        content: '';
+        position: absolute;
+        top: 0; right: 0; bottom: 0; left: 0;
+        z-index: -1;
+        margin: -$border; /* !importanté */
+        border-radius: inherit; /* !importanté */
+        background: linear-gradient(350deg, rgba(95, 39, 205, 1) 0%, rgba(238, 82, 83, 1) 100%);
+    }
+}
