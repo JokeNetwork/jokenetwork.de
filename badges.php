@@ -32,14 +32,14 @@
        <section class="message">
         <h1>GitHub Badges</h1>
 
-          <p>We love the idea of open-sourced projects! <br>But sometimes it is hard to see if a project is still actively maintained or not.<br>
-          Because of this, we created the fowllowing Badges for README-overviews on GitHub.</p>
+          <p>We love open-source projects, but sometimes it is hard to see if a project is still actively maintained or not.<br>
+          Because of this, we've created the fowllowing Badges for your README files on GitHub based on  <a href="https://opensource.box.com/badges/">box's open source project status badges</a> but with other options to choose from:</p>
           
             <table>
               <tbody>
                   <tr>
                   <td><img src="/assets/img/gitstatus/communitybased.svg" alt="Status: Active"></td>
-                  <td><span class="bold">Community based:</span><br>This badge indicates that the project is still actively maintained by the community.</td>
+                  <td><span class="bold">Community based:</span><br>This badge indicates that the project is still actively maintained by the community, but not necessarily by the original creator (May apply to active maintained forks too).</td>
                 </tr>
                 <tr>
                   <td><img src="/assets/img/gitstatus/active.svg" alt="Status: Active"></td>
@@ -60,7 +60,7 @@
               </tbody>
             </table>
 
-              <p>Feel free to use them in your GitHub-projects without any mention (Some rights reserved).</p>
+              <p>Feel free to use them in your GitHub-projects without any mention (WTFPL-License).</p>
         </section>
       </div>
     </div>
