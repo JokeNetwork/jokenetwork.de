@@ -61,6 +61,14 @@
             </table>
 
               <p>Feel free to use them in your GitHub-projects without any mention (WTFPL-License).</p>
+              <p>Recommended Use in Markdown:</p>
+              <code>
+               [![Status: Active](https://jokenetwork.de/assets/img/gitstatus/communitybased.svg)](https://jokenetwork.de/badges)<br>
+               [![Status: Active](https://jokenetwork.de/assets/img/gitstatus/active.svg)](https://jokenetwork.de/badges)<br>
+               [![Status: Inactvie](https://jokenetwork.de/assets/img/gitstatus/inactive.svg)](https://jokenetwork.de/badges)<br>
+               [![Status: EOL](https://jokenetwork.de/assets/img/gitstatus/discontinued.svg)](https://jokenetwork.de/badges)<br>
+               [![Status: Unknown](https://jokenetwork.de/assets/img/gitstatus/unknown.svg)](https://jokenetwork.de/badges)
+              </code>
         </section>
       </div>
     </div>
