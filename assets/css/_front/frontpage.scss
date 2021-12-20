@@ -162,11 +162,11 @@ code {
     position: relative;
     box-sizing: border-box;
     $border: .1rem;
-    color: #FFF;
+    color: #fff;
     background: #000;
     background-clip: padding-box;
     border: solid $border transparent; 
-    &:before {
+    &::before {
         content: '';
         position: absolute;
         top: 0; right: 0; bottom: 0; left: 0;
