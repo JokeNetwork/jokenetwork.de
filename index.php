@@ -42,13 +42,9 @@
         <h2>Current Projects</h2>
          <h3 name="vegancheck">VeganCheck.me - Check if it's vegan!</h3>
          <p>VeganCheck.me is our first PWA (Progressive Web App) and focused on simplicity, therefore it only shows what matters:<br>
-         This includes information about the product being vegan or not, information about palm-oil in the product and the Nutriscore of the product.</p>
+         This includes information about the product being vegan or not, information about palm-oil in the product and if animals were harmed in the products testing.</p>
          <p>Simply scan the EAN or UPC-Code of a product to start with VeganCheck.me!</p>
-         <p>Planned for the future:</p>
-         <ul>
-           <li>Options for vegetarians</li>
-         </ul>
-         <a href="//vegancheck.me">See in action</a> / <a href="//github.com/jokenetwork/VeganCheck.me">Contribute on GitHub</a> 
+         <a href="//vegancheck.me">See in action</a> / <a href="//github.com/jokenetwork/VeganCheck.me">Contribute on GitHub</a> / <a href="https://github.com/JokeNetwork/vegancheck.me/wiki">Use the API</a>
          <p><a href="//vegancheck.me"><img src="assets/img/PWA.svg" alt="Open PWA in Browser" width="150" loading="lazy"></a></p>
        </div>
        <div class="flexbox">
