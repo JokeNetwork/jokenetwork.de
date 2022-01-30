@@ -51,12 +51,16 @@ section.text {
 
 }
 
-section.message {
+section.message, section.left {
     padding-bottom: 3rem;
     width: 100%;
 }
 
-section.message h1 {
+section.left {
+    text-align: left;
+}
+
+section.message, section.left h1 {
     font-size: var(--h1-font-size);
     background: rgb(95, 39, 205);
     background: linear-gradient(350deg, rgba(95, 39, 205, 1) 0%, rgba(238, 82, 83, 1) 100%);
@@ -67,7 +71,7 @@ section.message h1 {
     outline: 0;
 }
 
-section.message h2 {
+section.message, section.left h2 {
     font-size: var(--h2-font-size);
     line-height: var(--h2-line-height);
 }
@@ -175,4 +179,13 @@ code {
         border-radius: inherit; /* !importanté */
         background: linear-gradient(350deg, rgba(95, 39, 205, 1) 0%, rgba(238, 82, 83, 1) 100%);
     }
+}
+
+pre {
+    display: inline;
+}
+
+.highlight {
+    font-family: monospace;
+    color: #e83e8c;
 }

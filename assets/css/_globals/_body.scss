@@ -281,6 +281,75 @@ footer {
     font-weight: var(--bold-fontweight);
 }
 
+// Gists
+@import url('https://cdn.rawgit.com/lonekorean/gist-syntax-themes/d49b91b3/stylesheets/one-dark.css');
+
+body .gist .gist-file {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    position: relative;
+    box-sizing: border-box;
+    background-clip: padding-box;
+    border: solid .1rem transparent;
+}
+
+body .gist .gist-file::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    margin: -.1rem;
+    /* !importanté */
+    border-radius: inherit;
+    /* !importanté */
+    background: linear-gradient(350deg, rgba(95, 39, 205, 1) 0%, rgba(238, 82, 83, 1) 100%);
+}
+
+body .gist .gist-data {
+    border-bottom: none;
+    background-color: #000;
+    border-radius: 5px;
+}
+
+body .gist .blob-wrapper {
+    border-radius: 0;
+}
+
+body .gist .highlight {
+    background-color: transparent;
+    font-size: 14px;
+}
+
+body .gist .highlight td {
+    padding: 5px 15px !important;
+    line-height: 1;
+    font-family: inherit;
+    font-size: inherit;
+}
+
+body .gist tr:first-child td {
+    padding-top: 15px !important;
+}
+
+body .gist tr:last-child td {
+    padding-bottom: 15px !important;
+}
+
+body .gist .blob-num {
+    display: none;
+    color: #fff;
+    background-color: grey;
+    pointer-events: none;
+}
+
+body .gist .gist-meta {
+    display: none;
+}
+
 // Basic Animations
 
 @keyframes fadeIn {
