@@ -281,38 +281,37 @@ footer {
     font-weight: var(--bold-fontweight);
 }
 
-// Gists
+/* Gists */
 @import url('https://cdn.rawgit.com/lonekorean/gist-syntax-themes/d49b91b3/stylesheets/one-dark.css');
 
 body .gist .gist-file {
     margin-top: 1rem;
     margin-bottom: 1rem;
-    border-radius: 5px;
+    border-radius: .5rem;
     position: relative;
     box-sizing: border-box;
     background-clip: padding-box;
-    border: solid .1rem transparent;
-}
+    $border: 0.1rem;
+    border: solid $border transparent;
 
-body .gist .gist-file::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    z-index: -1;
-    margin: -.1rem;
-    /* !importanté */
-    border-radius: inherit;
-    /* !importanté */
-    background: linear-gradient(350deg, rgba(95, 39, 205, 1) 0%, rgba(238, 82, 83, 1) 100%);
+    &::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        z-index: -1;
+        margin: -$border;
+        border-radius: inherit;
+        background: linear-gradient(350deg, rgba(95, 39, 205, 1) 0%, rgba(238, 82, 83, 1) 100%);
+    }
 }
 
 body .gist .gist-data {
     border-bottom: none;
     background-color: #000;
-    border-radius: 5px;
+    border-radius: .5rem;
 }
 
 body .gist .blob-wrapper {
