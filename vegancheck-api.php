@@ -63,12 +63,12 @@
                 <tr>
                     <td>product</td>
                     <td>transmit the barcode of the product</td>
-                    <td>url-parameter</td>
+                    <td>GET (as URL-param)</td>
                 </tr>
                 <tr>
-                    <td>ean</td>
+                    <td>product</td>
                     <td>transmit the barcode of the product</td>
-                    <td>post (form-encoded)</td>
+                    <td>POST (as JSON)</td>
                 </tr>
             </table>
             <ul>
@@ -92,7 +92,8 @@
             <ul>
               <li>The field <span class="highlight">nutriscore</span> will always return <span class="highlight">n/a</span> when <span class="highlight">data_source→database</span> is OpenBeautyFacts, Brocade.io or Open EAN Database.</li>
               <li>The field <span class="highlight">not_tested_on_animals</span> will always return <span class="highlight">n/a</span> if <span class="highlight">data_source→database</span> is not OpenBeautyFacts.</li>
-              <li>All fields, except <span class="highlight">name</span>, will return <span class="highlight">n/a</span> if <span class="highlight">data_source→database</span> is Open EAN Database.</li>
+              <li>The field <span class="highlight">contains_palmoil</span> will always return <span class="highlight">n/a</span> if <span class="highlight">data_source→database</span> is not OpenBeautyFacts or OpenFoodFacts.</li>
+              <li>The field <span class="highlight">is_vegan</span> may return <span class="highlight">likely</span> if <span class="highlight">data_source→database</span> is Open EAN Database.</li>
               <li><span class="highlight">n/a</span> is not an error but just means that we don't have any data about the field.</li>
             </ul>
             <h4 id="error-responses">Error responses</h4>
