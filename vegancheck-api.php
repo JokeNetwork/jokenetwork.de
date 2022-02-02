@@ -43,9 +43,10 @@
                <li>If it has been tested on animals</li>
                <li>Where this data comes from</li>
             </ul>
+            <p>There is also a VeganCheck.me Ingredients API, <a href="https://github.com/JokeNetwork/vegan-ingredients-api">documented here</a>.</p>
             <h2 id="how-to-use">How to use</h2>
             <h3 id="json-end-point">JSON End-Point</h3>
-            <p>The APIs base path is <span class="highlight">https://vegancheck.me/api/v0/product</span> and gives out a JSON response.</p>
+            <p>The APIs base path is <span class="highlight">https://api.vegancheck.me/v0/product</span> and gives out a JSON response.</p>
 
             <h3 id="authenticate">Authenticate</h2>
             <p>To use the API, you currently have to authenticate using the non-standard HTTP-Header <span class="highlight">AUTH-KEY</span>.</p>
