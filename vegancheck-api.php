@@ -50,8 +50,7 @@
 
             <h3 id="authenticate">Authenticate</h2>
             <p>To use the API, you currently have to authenticate using the non-standard HTTP-Header <span class="highlight">AUTH-KEY</span>.</p>
-            <p>For testing purposes, you can use the key <span class="highlight">"alpha"</span>, but as of now, it is limited to 5 requests/day. If you need your own key with a higher limit, please contact us at <a href="mailto:info@philip.media">info@philip.media</a>.</p>
-            <p><strong>Attention:</strong> We're planning to drop the authentication and implement a general rate limit of 1,000 requests/day.</p>
+            <p>You can use the key <span class="highlight">"alpha"</span>.</p>
 
             <h3 id="parameters">Parameters</h3>
             <p>The following parameters are available as of now:</p>
