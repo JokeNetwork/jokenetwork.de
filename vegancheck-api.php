@@ -23,6 +23,7 @@
                <a href="#how-to-use">How to use</a>
                <a href="#responses">Responses</a>
                <a href="#code-examples">Examples</a>
+               <a href="https://stats.uptimerobot.com/LY1gRuP5j6">Status</a>
             </nav>
          </div>
       </header>
@@ -47,6 +48,7 @@
             <h2 id="how-to-use">How to use</h2>
             <h3 id="json-end-point">JSON End-Point</h3>
             <p>The APIs base path is <span class="highlight">https://api.vegancheck.me/v0/product</span> and gives out a JSON response.</p>
+            <p>You can find the <a href="https://stats.uptimerobot.com/LY1gRuP5j6">monitoring status page here</a>.</a>
 
             <h3 id="authenticate">Authenticate</h2>
             <p>To use the API, you currently have to authenticate using the non-standard HTTP-Header <span class="highlight">AUTH-KEY</span>.</p>
